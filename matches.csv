@@ -1,0 +1,761 @@
+,MatchID,GameWeek,Date,Team,Opposition,Home,TeamStrength,OppositionStrength
+0,58897,1,2020-09-12,Southampton,Crystal Palace,Away,3,3
+1,58897,1,2020-09-12,Crystal Palace,Southampton,Home,3,3
+2,58898,1,2020-09-12,Arsenal,Fulham,Away,4,2
+3,58898,1,2020-09-12,Fulham,Arsenal,Home,2,4
+4,58899,1,2020-09-12,Leeds United,Liverpool,Away,2,5
+5,58899,1,2020-09-12,Liverpool,Leeds United,Home,5,2
+6,58901,1,2020-09-12,Everton,Tottenham Hotspur,Away,3,4
+7,58901,1,2020-09-12,Tottenham Hotspur,Everton,Home,4,3
+8,58902,1,2020-09-12,Leicester City,West Bromwich Albion,Away,4,2
+9,58902,1,2020-09-12,West Bromwich Albion,Leicester City,Home,2,4
+10,58903,1,2020-09-12,Newcastle United,West Ham United,Away,3,3
+11,58903,1,2020-09-12,West Ham United,Newcastle United,Home,3,3
+12,58904,1,2020-09-14,Chelsea,Brighton and Hove Albion,Away,4,2
+13,58904,1,2020-09-14,Brighton and Hove Albion,Chelsea,Home,2,4
+14,58905,1,2020-09-14,Wolverhampton Wanderers,Sheffield United,Away,3,3
+15,58905,1,2020-09-14,Sheffield United,Wolverhampton Wanderers,Home,3,3
+16,58896,1,TBC,Manchester United,Burnley,Away,4,3
+17,58896,1,TBC,Burnley,Manchester United,Home,3,4
+18,58900,1,TBC,Aston Villa,Manchester City,Away,2,5
+19,58900,1,TBC,Manchester City,Aston Villa,Home,5,2
+20,58906,2,2020-09-19,West Ham United,Arsenal,Away,3,4
+21,58906,2,2020-09-19,Arsenal,West Ham United,Home,4,3
+22,58907,2,2020-09-19,Sheffield United,Aston Villa,Away,3,2
+23,58907,2,2020-09-19,Aston Villa,Sheffield United,Home,2,3
+24,58908,2,2020-09-19,Liverpool,Chelsea,Away,5,4
+25,58908,2,2020-09-19,Chelsea,Liverpool,Home,4,5
+26,58909,2,2020-09-19,West Bromwich Albion,Everton,Away,2,3
+27,58909,2,2020-09-19,Everton,West Bromwich Albion,Home,3,2
+28,58910,2,2020-09-19,Fulham,Leeds United,Away,2,2
+29,58910,2,2020-09-19,Leeds United,Fulham,Home,2,2
+30,58911,2,2020-09-19,Burnley,Leicester City,Away,3,4
+31,58911,2,2020-09-19,Leicester City,Burnley,Home,4,3
+32,58912,2,2020-09-19,Crystal Palace,Manchester United,Away,3,4
+33,58912,2,2020-09-19,Manchester United,Crystal Palace,Home,4,3
+34,58913,2,2020-09-19,Brighton and Hove Albion,Newcastle United,Away,2,3
+35,58913,2,2020-09-19,Newcastle United,Brighton and Hove Albion,Home,3,2
+36,58914,2,2020-09-19,Tottenham Hotspur,Southampton,Away,4,3
+37,58914,2,2020-09-19,Southampton,Tottenham Hotspur,Home,3,4
+38,58915,2,2020-09-19,Manchester City,Wolverhampton Wanderers,Away,5,3
+39,58915,2,2020-09-19,Wolverhampton Wanderers,Manchester City,Home,3,5
+40,58916,3,2020-09-26,Manchester United,Brighton and Hove Albion,Away,4,2
+41,58916,3,2020-09-26,Brighton and Hove Albion,Manchester United,Home,2,4
+42,58917,3,2020-09-26,Southampton,Burnley,Away,3,3
+43,58917,3,2020-09-26,Burnley,Southampton,Home,3,3
+44,58918,3,2020-09-26,Everton,Crystal Palace,Away,3,3
+45,58918,3,2020-09-26,Crystal Palace,Everton,Home,3,3
+46,58919,3,2020-09-26,Aston Villa,Fulham,Away,2,2
+47,58919,3,2020-09-26,Fulham,Aston Villa,Home,2,2
+48,58920,3,2020-09-26,Arsenal,Liverpool,Away,4,5
+49,58920,3,2020-09-26,Liverpool,Arsenal,Home,5,4
+50,58921,3,2020-09-26,Leicester City,Manchester City,Away,4,5
+51,58921,3,2020-09-26,Manchester City,Leicester City,Home,5,4
+52,58922,3,2020-09-26,Leeds United,Sheffield United,Away,2,3
+53,58922,3,2020-09-26,Sheffield United,Leeds United,Home,3,2
+54,58923,3,2020-09-26,Newcastle United,Tottenham Hotspur,Away,3,4
+55,58923,3,2020-09-26,Tottenham Hotspur,Newcastle United,Home,4,3
+56,58924,3,2020-09-26,Chelsea,West Bromwich Albion,Away,4,2
+57,58924,3,2020-09-26,West Bromwich Albion,Chelsea,Home,2,4
+58,58925,3,2020-09-26,Wolverhampton Wanderers,West Ham United,Away,3,3
+59,58925,3,2020-09-26,West Ham United,Wolverhampton Wanderers,Home,3,3
+60,58926,4,2020-10-03,Sheffield United,Arsenal,Away,3,4
+61,58926,4,2020-10-03,Arsenal,Sheffield United,Home,4,3
+62,58927,4,2020-10-03,Liverpool,Aston Villa,Away,5,2
+63,58927,4,2020-10-03,Aston Villa,Liverpool,Home,2,5
+64,58928,4,2020-10-03,Crystal Palace,Chelsea,Away,3,4
+65,58928,4,2020-10-03,Chelsea,Crystal Palace,Home,4,3
+66,58929,4,2020-10-03,Brighton and Hove Albion,Everton,Away,2,3
+67,58929,4,2020-10-03,Everton,Brighton and Hove Albion,Home,3,2
+68,58930,4,2020-10-03,Manchester City,Leeds United,Away,5,2
+69,58930,4,2020-10-03,Leeds United,Manchester City,Home,2,5
+70,58931,4,2020-10-03,West Ham United,Leicester City,Away,3,4
+71,58931,4,2020-10-03,Leicester City,West Ham United,Home,4,3
+72,58932,4,2020-10-03,Tottenham Hotspur,Manchester United,Away,4,4
+73,58932,4,2020-10-03,Manchester United,Tottenham Hotspur,Home,4,4
+74,58933,4,2020-10-03,Burnley,Newcastle United,Away,3,3
+75,58933,4,2020-10-03,Newcastle United,Burnley,Home,3,3
+76,58934,4,2020-10-03,West Bromwich Albion,Southampton,Away,2,3
+77,58934,4,2020-10-03,Southampton,West Bromwich Albion,Home,3,2
+78,58935,4,2020-10-03,Fulham,Wolverhampton Wanderers,Away,2,3
+79,58935,4,2020-10-03,Wolverhampton Wanderers,Fulham,Home,3,2
+80,58936,5,2020-10-17,Southampton,Chelsea,Away,3,4
+81,58936,5,2020-10-17,Chelsea,Southampton,Home,4,3
+82,58937,5,2020-10-17,Brighton and Hove Albion,Crystal Palace,Away,2,3
+83,58937,5,2020-10-17,Crystal Palace,Brighton and Hove Albion,Home,3,2
+84,58938,5,2020-10-17,Liverpool,Everton,Away,5,3
+85,58938,5,2020-10-17,Everton,Liverpool,Home,3,5
+86,58939,5,2020-10-17,Wolverhampton Wanderers,Leeds United,Away,3,2
+87,58939,5,2020-10-17,Leeds United,Wolverhampton Wanderers,Home,2,3
+88,58940,5,2020-10-17,Aston Villa,Leicester City,Away,2,4
+89,58940,5,2020-10-17,Leicester City,Aston Villa,Home,4,2
+90,58941,5,2020-10-17,Arsenal,Manchester City,Away,4,5
+91,58941,5,2020-10-17,Manchester City,Arsenal,Home,5,4
+92,58942,5,2020-10-17,Manchester United,Newcastle United,Away,4,3
+93,58942,5,2020-10-17,Newcastle United,Manchester United,Home,3,4
+94,58943,5,2020-10-17,Fulham,Sheffield United,Away,2,3
+95,58943,5,2020-10-17,Sheffield United,Fulham,Home,3,2
+96,58944,5,2020-10-17,West Ham United,Tottenham Hotspur,Away,3,4
+97,58944,5,2020-10-17,Tottenham Hotspur,West Ham United,Home,4,3
+98,58945,5,2020-10-17,Burnley,West Bromwich Albion,Away,3,2
+99,58945,5,2020-10-17,West Bromwich Albion,Burnley,Home,2,3
+100,58946,6,2020-10-24,Leicester City,Arsenal,Away,4,4
+101,58946,6,2020-10-24,Arsenal,Leicester City,Home,4,4
+102,58947,6,2020-10-24,Leeds United,Aston Villa,Away,2,2
+103,58947,6,2020-10-24,Aston Villa,Leeds United,Home,2,2
+104,58948,6,2020-10-24,West Bromwich Albion,Brighton and Hove Albion,Away,2,2
+105,58948,6,2020-10-24,Brighton and Hove Albion,West Bromwich Albion,Home,2,2
+106,58949,6,2020-10-24,Tottenham Hotspur,Burnley,Away,4,3
+107,58949,6,2020-10-24,Burnley,Tottenham Hotspur,Home,3,4
+108,58950,6,2020-10-24,Crystal Palace,Fulham,Away,3,2
+109,58950,6,2020-10-24,Fulham,Crystal Palace,Home,2,3
+110,58951,6,2020-10-24,Sheffield United,Liverpool,Away,3,5
+111,58951,6,2020-10-24,Liverpool,Sheffield United,Home,5,3
+112,58952,6,2020-10-24,Chelsea,Manchester United,Away,4,4
+113,58952,6,2020-10-24,Manchester United,Chelsea,Home,4,4
+114,58953,6,2020-10-24,Everton,Southampton,Away,3,3
+115,58953,6,2020-10-24,Southampton,Everton,Home,3,3
+116,58954,6,2020-10-24,Manchester City,West Ham United,Away,5,3
+117,58954,6,2020-10-24,West Ham United,Manchester City,Home,3,5
+118,58955,6,2020-10-24,Newcastle United,Wolverhampton Wanderers,Away,3,3
+119,58955,6,2020-10-24,Wolverhampton Wanderers,Newcastle United,Home,3,3
+120,58956,7,2020-10-31,Southampton,Aston Villa,Away,3,2
+121,58956,7,2020-10-31,Aston Villa,Southampton,Home,2,3
+122,58957,7,2020-10-31,Chelsea,Burnley,Away,4,3
+123,58957,7,2020-10-31,Burnley,Chelsea,Home,3,4
+124,58958,7,2020-10-31,West Bromwich Albion,Fulham,Away,2,2
+125,58958,7,2020-10-31,Fulham,West Bromwich Albion,Home,2,2
+126,58959,7,2020-10-31,Leicester City,Leeds United,Away,4,2
+127,58959,7,2020-10-31,Leeds United,Leicester City,Home,2,4
+128,58960,7,2020-10-31,West Ham United,Liverpool,Away,3,5
+129,58960,7,2020-10-31,Liverpool,West Ham United,Home,5,3
+130,58961,7,2020-10-31,Arsenal,Manchester United,Away,4,4
+131,58961,7,2020-10-31,Manchester United,Arsenal,Home,4,4
+132,58962,7,2020-10-31,Everton,Newcastle United,Away,3,3
+133,58962,7,2020-10-31,Newcastle United,Everton,Home,3,3
+134,58963,7,2020-10-31,Manchester City,Sheffield United,Away,5,3
+135,58963,7,2020-10-31,Sheffield United,Manchester City,Home,3,5
+136,58964,7,2020-10-31,Brighton and Hove Albion,Tottenham Hotspur,Away,2,4
+137,58964,7,2020-10-31,Tottenham Hotspur,Brighton and Hove Albion,Home,4,2
+138,58965,7,2020-10-31,Crystal Palace,Wolverhampton Wanderers,Away,3,3
+139,58965,7,2020-10-31,Wolverhampton Wanderers,Crystal Palace,Home,3,3
+140,58966,8,2020-11-07,Aston Villa,Arsenal,Away,2,4
+141,58966,8,2020-11-07,Arsenal,Aston Villa,Home,4,2
+142,58967,8,2020-11-07,Burnley,Brighton and Hove Albion,Away,3,2
+143,58967,8,2020-11-07,Brighton and Hove Albion,Burnley,Home,2,3
+144,58968,8,2020-11-07,Sheffield United,Chelsea,Away,3,4
+145,58968,8,2020-11-07,Chelsea,Sheffield United,Home,4,3
+146,58969,8,2020-11-07,Leeds United,Crystal Palace,Away,2,3
+147,58969,8,2020-11-07,Crystal Palace,Leeds United,Home,3,2
+148,58970,8,2020-11-07,Manchester United,Everton,Away,4,3
+149,58970,8,2020-11-07,Everton,Manchester United,Home,3,4
+150,58971,8,2020-11-07,Wolverhampton Wanderers,Leicester City,Away,3,4
+151,58971,8,2020-11-07,Leicester City,Wolverhampton Wanderers,Home,4,3
+152,58972,8,2020-11-07,Liverpool,Manchester City,Away,5,5
+153,58972,8,2020-11-07,Manchester City,Liverpool,Home,5,5
+154,58973,8,2020-11-07,Newcastle United,Southampton,Away,3,3
+155,58973,8,2020-11-07,Southampton,Newcastle United,Home,3,3
+156,58974,8,2020-11-07,Tottenham Hotspur,West Bromwich Albion,Away,4,2
+157,58974,8,2020-11-07,West Bromwich Albion,Tottenham Hotspur,Home,2,4
+158,58975,8,2020-11-07,Fulham,West Ham United,Away,2,3
+159,58975,8,2020-11-07,West Ham United,Fulham,Home,3,2
+160,58976,9,2020-11-21,Brighton and Hove Albion,Aston Villa,Away,2,2
+161,58976,9,2020-11-21,Aston Villa,Brighton and Hove Albion,Home,2,2
+162,58977,9,2020-11-21,Crystal Palace,Burnley,Away,3,3
+163,58977,9,2020-11-21,Burnley,Crystal Palace,Home,3,3
+164,58978,9,2020-11-21,Everton,Fulham,Away,3,2
+165,58978,9,2020-11-21,Fulham,Everton,Home,2,3
+166,58979,9,2020-11-21,Arsenal,Leeds United,Away,4,2
+167,58979,9,2020-11-21,Leeds United,Arsenal,Home,2,4
+168,58980,9,2020-11-21,Leicester City,Liverpool,Away,4,5
+169,58980,9,2020-11-21,Liverpool,Leicester City,Home,5,4
+170,58981,9,2020-11-21,West Bromwich Albion,Manchester United,Away,2,4
+171,58981,9,2020-11-21,Manchester United,West Bromwich Albion,Home,4,2
+172,58982,9,2020-11-21,Chelsea,Newcastle United,Away,4,3
+173,58982,9,2020-11-21,Newcastle United,Chelsea,Home,3,4
+174,58983,9,2020-11-21,West Ham United,Sheffield United,Away,3,3
+175,58983,9,2020-11-21,Sheffield United,West Ham United,Home,3,3
+176,58984,9,2020-11-21,Manchester City,Tottenham Hotspur,Away,5,4
+177,58984,9,2020-11-21,Tottenham Hotspur,Manchester City,Home,4,5
+178,58985,9,2020-11-21,Southampton,Wolverhampton Wanderers,Away,3,3
+179,58985,9,2020-11-21,Wolverhampton Wanderers,Southampton,Home,3,3
+180,58986,10,2020-11-28,Wolverhampton Wanderers,Arsenal,Away,3,4
+181,58986,10,2020-11-28,Arsenal,Wolverhampton Wanderers,Home,4,3
+182,58987,10,2020-11-28,Liverpool,Brighton and Hove Albion,Away,5,2
+183,58987,10,2020-11-28,Brighton and Hove Albion,Liverpool,Home,2,5
+184,58988,10,2020-11-28,Tottenham Hotspur,Chelsea,Away,4,4
+185,58988,10,2020-11-28,Chelsea,Tottenham Hotspur,Home,4,4
+186,58989,10,2020-11-28,Newcastle United,Crystal Palace,Away,3,3
+187,58989,10,2020-11-28,Crystal Palace,Newcastle United,Home,3,3
+188,58990,10,2020-11-28,Leeds United,Everton,Away,2,3
+189,58990,10,2020-11-28,Everton,Leeds United,Home,3,2
+190,58991,10,2020-11-28,Fulham,Leicester City,Away,2,4
+191,58991,10,2020-11-28,Leicester City,Fulham,Home,4,2
+192,58992,10,2020-11-28,Burnley,Manchester City,Away,3,5
+193,58992,10,2020-11-28,Manchester City,Burnley,Home,5,3
+194,58993,10,2020-11-28,Manchester United,Southampton,Away,4,3
+195,58993,10,2020-11-28,Southampton,Manchester United,Home,3,4
+196,58994,10,2020-11-28,Sheffield United,West Bromwich Albion,Away,3,2
+197,58994,10,2020-11-28,West Bromwich Albion,Sheffield United,Home,2,3
+198,58995,10,2020-11-28,Aston Villa,West Ham United,Away,2,3
+199,58995,10,2020-11-28,West Ham United,Aston Villa,Home,3,2
+200,58996,11,2020-12-05,Newcastle United,Aston Villa,Away,3,2
+201,58996,11,2020-12-05,Aston Villa,Newcastle United,Home,2,3
+202,58997,11,2020-12-05,Southampton,Brighton and Hove Albion,Away,3,2
+203,58997,11,2020-12-05,Brighton and Hove Albion,Southampton,Home,2,3
+204,58998,11,2020-12-05,Everton,Burnley,Away,3,3
+205,58998,11,2020-12-05,Burnley,Everton,Home,3,3
+206,58999,11,2020-12-05,Leeds United,Chelsea,Away,2,4
+207,58999,11,2020-12-05,Chelsea,Leeds United,Home,4,2
+208,59000,11,2020-12-05,Wolverhampton Wanderers,Liverpool,Away,3,5
+209,59000,11,2020-12-05,Liverpool,Wolverhampton Wanderers,Home,5,3
+210,59001,11,2020-12-05,Fulham,Manchester City,Away,2,5
+211,59001,11,2020-12-05,Manchester City,Fulham,Home,5,2
+212,59002,11,2020-12-05,Leicester City,Sheffield United,Away,4,3
+213,59002,11,2020-12-05,Sheffield United,Leicester City,Home,3,4
+214,59003,11,2020-12-05,Arsenal,Tottenham Hotspur,Away,4,4
+215,59003,11,2020-12-05,Tottenham Hotspur,Arsenal,Home,4,4
+216,59004,11,2020-12-05,Crystal Palace,West Bromwich Albion,Away,3,2
+217,59004,11,2020-12-05,West Bromwich Albion,Crystal Palace,Home,2,3
+218,59005,11,2020-12-05,Manchester United,West Ham United,Away,4,3
+219,59005,11,2020-12-05,West Ham United,Manchester United,Home,3,4
+220,59006,12,2020-12-12,Burnley,Arsenal,Away,3,4
+221,59006,12,2020-12-12,Arsenal,Burnley,Home,4,3
+222,59007,12,2020-12-12,Tottenham Hotspur,Crystal Palace,Away,4,3
+223,59007,12,2020-12-12,Crystal Palace,Tottenham Hotspur,Home,3,4
+224,59008,12,2020-12-12,Chelsea,Everton,Away,4,3
+225,59008,12,2020-12-12,Everton,Chelsea,Home,3,4
+226,59009,12,2020-12-12,Liverpool,Fulham,Away,5,2
+227,59009,12,2020-12-12,Fulham,Liverpool,Home,2,5
+228,59010,12,2020-12-12,West Ham United,Leeds United,Away,3,2
+229,59010,12,2020-12-12,Leeds United,West Ham United,Home,2,3
+230,59011,12,2020-12-12,Brighton and Hove Albion,Leicester City,Away,2,4
+231,59011,12,2020-12-12,Leicester City,Brighton and Hove Albion,Home,4,2
+232,59012,12,2020-12-12,Manchester City,Manchester United,Away,5,4
+233,59012,12,2020-12-12,Manchester United,Manchester City,Home,4,5
+234,59013,12,2020-12-12,West Bromwich Albion,Newcastle United,Away,2,3
+235,59013,12,2020-12-12,Newcastle United,West Bromwich Albion,Home,3,2
+236,59014,12,2020-12-12,Sheffield United,Southampton,Away,3,3
+237,59014,12,2020-12-12,Southampton,Sheffield United,Home,3,3
+238,59015,12,2020-12-12,Aston Villa,Wolverhampton Wanderers,Away,2,3
+239,59015,12,2020-12-12,Wolverhampton Wanderers,Aston Villa,Home,3,2
+240,59016,13,2020-12-15,Southampton,Arsenal,Away,3,4
+241,59016,13,2020-12-15,Arsenal,Southampton,Home,4,3
+242,59017,13,2020-12-15,Burnley,Aston Villa,Away,3,2
+243,59017,13,2020-12-15,Aston Villa,Burnley,Home,2,3
+244,59018,13,2020-12-15,Brighton and Hove Albion,Fulham,Away,2,2
+245,59018,13,2020-12-15,Fulham,Brighton and Hove Albion,Home,2,2
+246,59019,13,2020-12-15,Newcastle United,Leeds United,Away,3,2
+247,59019,13,2020-12-15,Leeds United,Newcastle United,Home,2,3
+248,59020,13,2020-12-15,Everton,Leicester City,Away,3,4
+249,59020,13,2020-12-15,Leicester City,Everton,Home,4,3
+250,59021,13,2020-12-15,Manchester United,Sheffield United,Away,4,3
+251,59021,13,2020-12-15,Sheffield United,Manchester United,Home,3,4
+252,59022,13,2020-12-15,Crystal Palace,West Ham United,Away,3,3
+253,59022,13,2020-12-15,West Ham United,Crystal Palace,Home,3,3
+254,59023,13,2020-12-15,Chelsea,Wolverhampton Wanderers,Away,4,3
+255,59023,13,2020-12-15,Wolverhampton Wanderers,Chelsea,Home,3,4
+256,59024,13,2020-12-16,Tottenham Hotspur,Liverpool,Away,4,5
+257,59024,13,2020-12-16,Liverpool,Tottenham Hotspur,Home,5,4
+258,59025,13,2020-12-16,West Bromwich Albion,Manchester City,Away,2,5
+259,59025,13,2020-12-16,Manchester City,West Bromwich Albion,Home,5,2
+260,59026,14,2020-12-19,Sheffield United,Brighton and Hove Albion,Away,3,2
+261,59026,14,2020-12-19,Brighton and Hove Albion,Sheffield United,Home,2,3
+262,59027,14,2020-12-19,Wolverhampton Wanderers,Burnley,Away,3,3
+263,59027,14,2020-12-19,Burnley,Wolverhampton Wanderers,Home,3,3
+264,59028,14,2020-12-19,West Ham United,Chelsea,Away,3,4
+265,59028,14,2020-12-19,Chelsea,West Ham United,Home,4,3
+266,59029,14,2020-12-19,Liverpool,Crystal Palace,Away,5,3
+267,59029,14,2020-12-19,Crystal Palace,Liverpool,Home,3,5
+268,59030,14,2020-12-19,Arsenal,Everton,Away,4,3
+269,59030,14,2020-12-19,Everton,Arsenal,Home,3,4
+270,59031,14,2020-12-19,Leeds United,Manchester United,Away,2,4
+271,59031,14,2020-12-19,Manchester United,Leeds United,Home,4,2
+272,59032,14,2020-12-19,Fulham,Newcastle United,Away,2,3
+273,59032,14,2020-12-19,Newcastle United,Fulham,Home,3,2
+274,59033,14,2020-12-19,Manchester City,Southampton,Away,5,3
+275,59033,14,2020-12-19,Southampton,Manchester City,Home,3,5
+276,59034,14,2020-12-19,Leicester City,Tottenham Hotspur,Away,4,4
+277,59034,14,2020-12-19,Tottenham Hotspur,Leicester City,Home,4,4
+278,59035,14,2020-12-19,Aston Villa,West Bromwich Albion,Away,2,2
+279,59035,14,2020-12-19,West Bromwich Albion,Aston Villa,Home,2,2
+280,59036,15,2020-12-26,Chelsea,Arsenal,Away,4,4
+281,59036,15,2020-12-26,Arsenal,Chelsea,Home,4,4
+282,59037,15,2020-12-26,Crystal Palace,Aston Villa,Away,3,2
+283,59037,15,2020-12-26,Aston Villa,Crystal Palace,Home,2,3
+284,59038,15,2020-12-26,Southampton,Fulham,Away,3,2
+285,59038,15,2020-12-26,Fulham,Southampton,Home,2,3
+286,59039,15,2020-12-26,Burnley,Leeds United,Away,3,2
+287,59039,15,2020-12-26,Leeds United,Burnley,Home,2,3
+288,59040,15,2020-12-26,Manchester United,Leicester City,Away,4,4
+289,59040,15,2020-12-26,Leicester City,Manchester United,Home,4,4
+290,59041,15,2020-12-26,West Bromwich Albion,Liverpool,Away,2,5
+291,59041,15,2020-12-26,Liverpool,West Bromwich Albion,Home,5,2
+292,59042,15,2020-12-26,Newcastle United,Manchester City,Away,3,5
+293,59042,15,2020-12-26,Manchester City,Newcastle United,Home,5,3
+294,59043,15,2020-12-26,Everton,Sheffield United,Away,3,3
+295,59043,15,2020-12-26,Sheffield United,Everton,Home,3,3
+296,59044,15,2020-12-26,Brighton and Hove Albion,West Ham United,Away,2,3
+297,59044,15,2020-12-26,West Ham United,Brighton and Hove Albion,Home,3,2
+298,59045,15,2020-12-26,Tottenham Hotspur,Wolverhampton Wanderers,Away,4,3
+299,59045,15,2020-12-26,Wolverhampton Wanderers,Tottenham Hotspur,Home,3,4
+300,59046,16,2020-12-28,Arsenal,Brighton and Hove Albion,Away,4,2
+301,59046,16,2020-12-28,Brighton and Hove Albion,Arsenal,Home,2,4
+302,59047,16,2020-12-28,Sheffield United,Burnley,Away,3,3
+303,59047,16,2020-12-28,Burnley,Sheffield United,Home,3,3
+304,59048,16,2020-12-28,Aston Villa,Chelsea,Away,2,4
+305,59048,16,2020-12-28,Chelsea,Aston Villa,Home,4,2
+306,59049,16,2020-12-28,Leicester City,Crystal Palace,Away,4,3
+307,59049,16,2020-12-28,Crystal Palace,Leicester City,Home,3,4
+308,59050,16,2020-12-28,Manchester City,Everton,Away,5,3
+309,59050,16,2020-12-28,Everton,Manchester City,Home,3,5
+310,59051,16,2020-12-28,Wolverhampton Wanderers,Manchester United,Away,3,4
+311,59051,16,2020-12-28,Manchester United,Wolverhampton Wanderers,Home,4,3
+312,59052,16,2020-12-28,Liverpool,Newcastle United,Away,5,3
+313,59052,16,2020-12-28,Newcastle United,Liverpool,Home,3,5
+314,59053,16,2020-12-28,West Ham United,Southampton,Away,3,3
+315,59053,16,2020-12-28,Southampton,West Ham United,Home,3,3
+316,59054,16,2020-12-28,Fulham,Tottenham Hotspur,Away,2,4
+317,59054,16,2020-12-28,Tottenham Hotspur,Fulham,Home,4,2
+318,59055,16,2020-12-28,Leeds United,West Bromwich Albion,Away,2,2
+319,59055,16,2020-12-28,West Bromwich Albion,Leeds United,Home,2,2
+320,59056,17,2021-01-02,Wolverhampton Wanderers,Brighton and Hove Albion,Away,3,2
+321,59056,17,2021-01-02,Brighton and Hove Albion,Wolverhampton Wanderers,Home,2,3
+322,59057,17,2021-01-02,Fulham,Burnley,Away,2,3
+323,59057,17,2021-01-02,Burnley,Fulham,Home,3,2
+324,59058,17,2021-01-02,Manchester City,Chelsea,Away,5,4
+325,59058,17,2021-01-02,Chelsea,Manchester City,Home,4,5
+326,59059,17,2021-01-02,Sheffield United,Crystal Palace,Away,3,3
+327,59059,17,2021-01-02,Crystal Palace,Sheffield United,Home,3,3
+328,59060,17,2021-01-02,West Ham United,Everton,Away,3,3
+329,59060,17,2021-01-02,Everton,West Ham United,Home,3,3
+330,59061,17,2021-01-02,Aston Villa,Manchester United,Away,2,4
+331,59061,17,2021-01-02,Manchester United,Aston Villa,Home,4,2
+332,59062,17,2021-01-02,Leicester City,Newcastle United,Away,4,3
+333,59062,17,2021-01-02,Newcastle United,Leicester City,Home,3,4
+334,59063,17,2021-01-02,Liverpool,Southampton,Away,5,3
+335,59063,17,2021-01-02,Southampton,Liverpool,Home,3,5
+336,59064,17,2021-01-02,Leeds United,Tottenham Hotspur,Away,2,4
+337,59064,17,2021-01-02,Tottenham Hotspur,Leeds United,Home,4,2
+338,59065,17,2021-01-02,Arsenal,West Bromwich Albion,Away,4,2
+339,59065,17,2021-01-02,West Bromwich Albion,Arsenal,Home,2,4
+340,59066,18,2021-01-12,Crystal Palace,Arsenal,Away,3,4
+341,59066,18,2021-01-12,Arsenal,Crystal Palace,Home,4,3
+342,59067,18,2021-01-12,Tottenham Hotspur,Aston Villa,Away,4,2
+343,59067,18,2021-01-12,Aston Villa,Tottenham Hotspur,Home,2,4
+344,59068,18,2021-01-12,Manchester United,Fulham,Away,4,2
+345,59068,18,2021-01-12,Fulham,Manchester United,Home,2,4
+346,59069,18,2021-01-12,Southampton,Leeds United,Away,3,2
+347,59069,18,2021-01-12,Leeds United,Southampton,Home,2,3
+348,59070,18,2021-01-12,Chelsea,Leicester City,Away,4,4
+349,59070,18,2021-01-12,Leicester City,Chelsea,Home,4,4
+350,59071,18,2021-01-12,Newcastle United,Sheffield United,Away,3,3
+351,59071,18,2021-01-12,Sheffield United,Newcastle United,Home,3,3
+352,59072,18,2021-01-12,West Bromwich Albion,West Ham United,Away,2,3
+353,59072,18,2021-01-12,West Ham United,West Bromwich Albion,Home,3,2
+354,59073,18,2021-01-12,Everton,Wolverhampton Wanderers,Away,3,3
+355,59073,18,2021-01-12,Wolverhampton Wanderers,Everton,Home,3,3
+356,59074,18,2021-01-13,Burnley,Liverpool,Away,3,5
+357,59074,18,2021-01-13,Liverpool,Burnley,Home,5,3
+358,59075,18,2021-01-13,Brighton and Hove Albion,Manchester City,Away,2,5
+359,59075,18,2021-01-13,Manchester City,Brighton and Hove Albion,Home,5,2
+360,59076,19,2021-01-16,Newcastle United,Arsenal,Away,3,4
+361,59076,19,2021-01-16,Arsenal,Newcastle United,Home,4,3
+362,59077,19,2021-01-16,Everton,Aston Villa,Away,3,2
+363,59077,19,2021-01-16,Aston Villa,Everton,Home,2,3
+364,59078,19,2021-01-16,Chelsea,Fulham,Away,4,2
+365,59078,19,2021-01-16,Fulham,Chelsea,Home,2,4
+366,59079,19,2021-01-16,Brighton and Hove Albion,Leeds United,Away,2,2
+367,59079,19,2021-01-16,Leeds United,Brighton and Hove Albion,Home,2,2
+368,59080,19,2021-01-16,Southampton,Leicester City,Away,3,4
+369,59080,19,2021-01-16,Leicester City,Southampton,Home,4,3
+370,59081,19,2021-01-16,Manchester United,Liverpool,Away,4,5
+371,59081,19,2021-01-16,Liverpool,Manchester United,Home,5,4
+372,59082,19,2021-01-16,Crystal Palace,Manchester City,Away,3,5
+373,59082,19,2021-01-16,Manchester City,Crystal Palace,Home,5,3
+374,59083,19,2021-01-16,Tottenham Hotspur,Sheffield United,Away,4,3
+375,59083,19,2021-01-16,Sheffield United,Tottenham Hotspur,Home,3,4
+376,59084,19,2021-01-16,Burnley,West Ham United,Away,3,3
+377,59084,19,2021-01-16,West Ham United,Burnley,Home,3,3
+378,59085,19,2021-01-16,West Bromwich Albion,Wolverhampton Wanderers,Away,2,3
+379,59085,19,2021-01-16,Wolverhampton Wanderers,West Bromwich Albion,Home,3,2
+380,59086,20,2021-01-26,Fulham,Brighton and Hove Albion,Away,2,2
+381,59086,20,2021-01-26,Brighton and Hove Albion,Fulham,Home,2,2
+382,59087,20,2021-01-26,Aston Villa,Burnley,Away,2,3
+383,59087,20,2021-01-26,Burnley,Aston Villa,Home,3,2
+384,59088,20,2021-01-26,Leicester City,Everton,Away,4,3
+385,59088,20,2021-01-26,Everton,Leicester City,Home,3,4
+386,59089,20,2021-01-26,Sheffield United,Manchester United,Away,3,4
+387,59089,20,2021-01-26,Manchester United,Sheffield United,Home,4,3
+388,59090,20,2021-01-26,Manchester City,West Bromwich Albion,Away,5,2
+389,59090,20,2021-01-26,West Bromwich Albion,Manchester City,Home,2,5
+390,59091,20,2021-01-27,Wolverhampton Wanderers,Chelsea,Away,3,4
+391,59091,20,2021-01-27,Chelsea,Wolverhampton Wanderers,Home,4,3
+392,59092,20,2021-01-27,West Ham United,Crystal Palace,Away,3,3
+393,59092,20,2021-01-27,Crystal Palace,West Ham United,Home,3,3
+394,59093,20,2021-01-27,Leeds United,Newcastle United,Away,2,3
+395,59093,20,2021-01-27,Newcastle United,Leeds United,Home,3,2
+396,59094,20,2021-01-27,Arsenal,Southampton,Away,4,3
+397,59094,20,2021-01-27,Southampton,Arsenal,Home,3,4
+398,59095,20,2021-01-27,Liverpool,Tottenham Hotspur,Away,5,4
+399,59095,20,2021-01-27,Tottenham Hotspur,Liverpool,Home,4,5
+400,59096,21,2021-01-30,Manchester United,Arsenal,Away,4,4
+401,59096,21,2021-01-30,Arsenal,Manchester United,Home,4,4
+402,59097,21,2021-01-30,Tottenham Hotspur,Brighton and Hove Albion,Away,4,2
+403,59097,21,2021-01-30,Brighton and Hove Albion,Tottenham Hotspur,Home,2,4
+404,59098,21,2021-01-30,Burnley,Chelsea,Away,3,4
+405,59098,21,2021-01-30,Chelsea,Burnley,Home,4,3
+406,59099,21,2021-01-30,Wolverhampton Wanderers,Crystal Palace,Away,3,3
+407,59099,21,2021-01-30,Crystal Palace,Wolverhampton Wanderers,Home,3,3
+408,59100,21,2021-01-30,Newcastle United,Everton,Away,3,3
+409,59100,21,2021-01-30,Everton,Newcastle United,Home,3,3
+410,59101,21,2021-01-30,Leeds United,Leicester City,Away,2,4
+411,59101,21,2021-01-30,Leicester City,Leeds United,Home,4,2
+412,59102,21,2021-01-30,Sheffield United,Manchester City,Away,3,5
+413,59102,21,2021-01-30,Manchester City,Sheffield United,Home,5,3
+414,59103,21,2021-01-30,Aston Villa,Southampton,Away,2,3
+415,59103,21,2021-01-30,Southampton,Aston Villa,Home,3,2
+416,59104,21,2021-01-30,Fulham,West Bromwich Albion,Away,2,2
+417,59104,21,2021-01-30,West Bromwich Albion,Fulham,Home,2,2
+418,59105,21,2021-01-30,Liverpool,West Ham United,Away,5,3
+419,59105,21,2021-01-30,West Ham United,Liverpool,Home,3,5
+420,59106,22,2021-02-02,West Ham United,Aston Villa,Away,3,2
+421,59106,22,2021-02-02,Aston Villa,West Ham United,Home,2,3
+422,59107,22,2021-02-02,Manchester City,Burnley,Away,5,3
+423,59107,22,2021-02-02,Burnley,Manchester City,Home,3,5
+424,59108,22,2021-02-02,Leicester City,Fulham,Away,4,2
+425,59108,22,2021-02-02,Fulham,Leicester City,Home,2,4
+426,59109,22,2021-02-02,Everton,Leeds United,Away,3,2
+427,59109,22,2021-02-02,Leeds United,Everton,Home,2,3
+428,59110,22,2021-02-02,Southampton,Manchester United,Away,3,4
+429,59110,22,2021-02-02,Manchester United,Southampton,Home,4,3
+430,59111,22,2021-02-02,West Bromwich Albion,Sheffield United,Away,2,3
+431,59111,22,2021-02-02,Sheffield United,West Bromwich Albion,Home,3,2
+432,59112,22,2021-02-02,Arsenal,Wolverhampton Wanderers,Away,4,3
+433,59112,22,2021-02-02,Wolverhampton Wanderers,Arsenal,Home,3,4
+434,59113,22,2021-02-03,Brighton and Hove Albion,Liverpool,Away,2,5
+435,59113,22,2021-02-03,Liverpool,Brighton and Hove Albion,Home,5,2
+436,59114,22,2021-02-03,Crystal Palace,Newcastle United,Away,3,3
+437,59114,22,2021-02-03,Newcastle United,Crystal Palace,Home,3,3
+438,59115,22,2021-02-03,Chelsea,Tottenham Hotspur,Away,4,4
+439,59115,22,2021-02-03,Tottenham Hotspur,Chelsea,Home,4,4
+440,59116,23,2021-02-06,Arsenal,Aston Villa,Away,4,2
+441,59116,23,2021-02-06,Aston Villa,Arsenal,Home,2,4
+442,59117,23,2021-02-06,Brighton and Hove Albion,Burnley,Away,2,3
+443,59117,23,2021-02-06,Burnley,Brighton and Hove Albion,Home,3,2
+444,59118,23,2021-02-06,West Ham United,Fulham,Away,3,2
+445,59118,23,2021-02-06,Fulham,West Ham United,Home,2,3
+446,59119,23,2021-02-06,Crystal Palace,Leeds United,Away,3,2
+447,59119,23,2021-02-06,Leeds United,Crystal Palace,Home,2,3
+448,59120,23,2021-02-06,Manchester City,Liverpool,Away,5,5
+449,59120,23,2021-02-06,Liverpool,Manchester City,Home,5,5
+450,59121,23,2021-02-06,Everton,Manchester United,Away,3,4
+451,59121,23,2021-02-06,Manchester United,Everton,Home,4,3
+452,59122,23,2021-02-06,Southampton,Newcastle United,Away,3,3
+453,59122,23,2021-02-06,Newcastle United,Southampton,Home,3,3
+454,59123,23,2021-02-06,Chelsea,Sheffield United,Away,4,3
+455,59123,23,2021-02-06,Sheffield United,Chelsea,Home,3,4
+456,59124,23,2021-02-06,West Bromwich Albion,Tottenham Hotspur,Away,2,4
+457,59124,23,2021-02-06,Tottenham Hotspur,West Bromwich Albion,Home,4,2
+458,59125,23,2021-02-06,Leicester City,Wolverhampton Wanderers,Away,4,3
+459,59125,23,2021-02-06,Wolverhampton Wanderers,Leicester City,Home,3,4
+460,59126,24,2021-02-13,Leeds United,Arsenal,Away,2,4
+461,59126,24,2021-02-13,Arsenal,Leeds United,Home,4,2
+462,59127,24,2021-02-13,Aston Villa,Brighton and Hove Albion,Away,2,2
+463,59127,24,2021-02-13,Brighton and Hove Albion,Aston Villa,Home,2,2
+464,59128,24,2021-02-13,Newcastle United,Chelsea,Away,3,4
+465,59128,24,2021-02-13,Chelsea,Newcastle United,Home,4,3
+466,59129,24,2021-02-13,Burnley,Crystal Palace,Away,3,3
+467,59129,24,2021-02-13,Crystal Palace,Burnley,Home,3,3
+468,59130,24,2021-02-13,Fulham,Everton,Away,2,3
+469,59130,24,2021-02-13,Everton,Fulham,Home,3,2
+470,59131,24,2021-02-13,Liverpool,Leicester City,Away,5,4
+471,59131,24,2021-02-13,Leicester City,Liverpool,Home,4,5
+472,59132,24,2021-02-13,Tottenham Hotspur,Manchester City,Away,4,5
+473,59132,24,2021-02-13,Manchester City,Tottenham Hotspur,Home,5,4
+474,59133,24,2021-02-13,Wolverhampton Wanderers,Southampton,Away,3,3
+475,59133,24,2021-02-13,Southampton,Wolverhampton Wanderers,Home,3,3
+476,59134,24,2021-02-13,Manchester United,West Bromwich Albion,Away,4,2
+477,59134,24,2021-02-13,West Bromwich Albion,Manchester United,Home,2,4
+478,59135,24,2021-02-13,Sheffield United,West Ham United,Away,3,3
+479,59135,24,2021-02-13,West Ham United,Sheffield United,Home,3,3
+480,59136,25,2021-02-20,Manchester City,Arsenal,Away,5,4
+481,59136,25,2021-02-20,Arsenal,Manchester City,Home,4,5
+482,59137,25,2021-02-20,Leicester City,Aston Villa,Away,4,2
+483,59137,25,2021-02-20,Aston Villa,Leicester City,Home,2,4
+484,59138,25,2021-02-20,Crystal Palace,Brighton and Hove Albion,Away,3,2
+485,59138,25,2021-02-20,Brighton and Hove Albion,Crystal Palace,Home,2,3
+486,59139,25,2021-02-20,West Bromwich Albion,Burnley,Away,2,3
+487,59139,25,2021-02-20,Burnley,West Bromwich Albion,Home,3,2
+488,59140,25,2021-02-20,Sheffield United,Fulham,Away,3,2
+489,59140,25,2021-02-20,Fulham,Sheffield United,Home,2,3
+490,59141,25,2021-02-20,Everton,Liverpool,Away,3,5
+491,59141,25,2021-02-20,Liverpool,Everton,Home,5,3
+492,59142,25,2021-02-20,Newcastle United,Manchester United,Away,3,4
+493,59142,25,2021-02-20,Manchester United,Newcastle United,Home,4,3
+494,59143,25,2021-02-20,Chelsea,Southampton,Away,4,3
+495,59143,25,2021-02-20,Southampton,Chelsea,Home,3,4
+496,59144,25,2021-02-20,Tottenham Hotspur,West Ham United,Away,4,3
+497,59144,25,2021-02-20,West Ham United,Tottenham Hotspur,Home,3,4
+498,59145,25,2021-02-20,Leeds United,Wolverhampton Wanderers,Away,2,3
+499,59145,25,2021-02-20,Wolverhampton Wanderers,Leeds United,Home,3,2
+500,59146,26,2021-02-27,Manchester United,Chelsea,Away,4,4
+501,59146,26,2021-02-27,Chelsea,Manchester United,Home,4,4
+502,59147,26,2021-02-27,Fulham,Crystal Palace,Away,2,3
+503,59147,26,2021-02-27,Crystal Palace,Fulham,Home,3,2
+504,59148,26,2021-02-27,Southampton,Everton,Away,3,3
+505,59148,26,2021-02-27,Everton,Southampton,Home,3,3
+506,59149,26,2021-02-27,Aston Villa,Leeds United,Away,2,2
+507,59149,26,2021-02-27,Leeds United,Aston Villa,Home,2,2
+508,59150,26,2021-02-27,Arsenal,Leicester City,Away,4,4
+509,59150,26,2021-02-27,Leicester City,Arsenal,Home,4,4
+510,59151,26,2021-02-27,West Ham United,Manchester City,Away,3,5
+511,59151,26,2021-02-27,Manchester City,West Ham United,Home,5,3
+512,59152,26,2021-02-27,Wolverhampton Wanderers,Newcastle United,Away,3,3
+513,59152,26,2021-02-27,Newcastle United,Wolverhampton Wanderers,Home,3,3
+514,59153,26,2021-02-27,Liverpool,Sheffield United,Away,5,3
+515,59153,26,2021-02-27,Sheffield United,Liverpool,Home,3,5
+516,59154,26,2021-02-27,Burnley,Tottenham Hotspur,Away,3,4
+517,59154,26,2021-02-27,Tottenham Hotspur,Burnley,Home,4,3
+518,59155,26,2021-02-27,Brighton and Hove Albion,West Bromwich Albion,Away,2,2
+519,59155,26,2021-02-27,West Bromwich Albion,Brighton and Hove Albion,Home,2,2
+520,59156,27,2021-03-06,Wolverhampton Wanderers,Aston Villa,Away,3,2
+521,59156,27,2021-03-06,Aston Villa,Wolverhampton Wanderers,Home,2,3
+522,59157,27,2021-03-06,Leicester City,Brighton and Hove Albion,Away,4,2
+523,59157,27,2021-03-06,Brighton and Hove Albion,Leicester City,Home,2,4
+524,59158,27,2021-03-06,Arsenal,Burnley,Away,4,3
+525,59158,27,2021-03-06,Burnley,Arsenal,Home,3,4
+526,59159,27,2021-03-06,Everton,Chelsea,Away,3,4
+527,59159,27,2021-03-06,Chelsea,Everton,Home,4,3
+528,59160,27,2021-03-06,Fulham,Liverpool,Away,2,5
+529,59160,27,2021-03-06,Liverpool,Fulham,Home,5,2
+530,59161,27,2021-03-06,Manchester United,Manchester City,Away,4,5
+531,59161,27,2021-03-06,Manchester City,Manchester United,Home,5,4
+532,59162,27,2021-03-06,Southampton,Sheffield United,Away,3,3
+533,59162,27,2021-03-06,Sheffield United,Southampton,Home,3,3
+534,59163,27,2021-03-06,Crystal Palace,Tottenham Hotspur,Away,3,4
+535,59163,27,2021-03-06,Tottenham Hotspur,Crystal Palace,Home,4,3
+536,59164,27,2021-03-06,Newcastle United,West Bromwich Albion,Away,3,2
+537,59164,27,2021-03-06,West Bromwich Albion,Newcastle United,Home,2,3
+538,59165,27,2021-03-06,Leeds United,West Ham United,Away,2,3
+539,59165,27,2021-03-06,West Ham United,Leeds United,Home,3,2
+540,59166,28,2021-03-13,Tottenham Hotspur,Arsenal,Away,4,4
+541,59166,28,2021-03-13,Arsenal,Tottenham Hotspur,Home,4,4
+542,59167,28,2021-03-13,West Bromwich Albion,Crystal Palace,Away,2,3
+543,59167,28,2021-03-13,Crystal Palace,West Bromwich Albion,Home,3,2
+544,59168,28,2021-03-13,Burnley,Everton,Away,3,3
+545,59168,28,2021-03-13,Everton,Burnley,Home,3,3
+546,59169,28,2021-03-13,Manchester City,Fulham,Away,5,2
+547,59169,28,2021-03-13,Fulham,Manchester City,Home,2,5
+548,59170,28,2021-03-13,Chelsea,Leeds United,Away,4,2
+549,59170,28,2021-03-13,Leeds United,Chelsea,Home,2,4
+550,59171,28,2021-03-13,Sheffield United,Leicester City,Away,3,4
+551,59171,28,2021-03-13,Leicester City,Sheffield United,Home,4,3
+552,59172,28,2021-03-13,West Ham United,Manchester United,Away,3,4
+553,59172,28,2021-03-13,Manchester United,West Ham United,Home,4,3
+554,59173,28,2021-03-13,Aston Villa,Newcastle United,Away,2,3
+555,59173,28,2021-03-13,Newcastle United,Aston Villa,Home,3,2
+556,59174,28,2021-03-13,Brighton and Hove Albion,Southampton,Away,2,3
+557,59174,28,2021-03-13,Southampton,Brighton and Hove Albion,Home,3,2
+558,59175,28,2021-03-13,Liverpool,Wolverhampton Wanderers,Away,5,3
+559,59175,28,2021-03-13,Wolverhampton Wanderers,Liverpool,Home,3,5
+560,59176,29,2021-03-20,Newcastle United,Brighton and Hove Albion,Away,3,2
+561,59176,29,2021-03-20,Brighton and Hove Albion,Newcastle United,Home,2,3
+562,59177,29,2021-03-20,Leicester City,Burnley,Away,4,3
+563,59177,29,2021-03-20,Burnley,Leicester City,Home,3,4
+564,59178,29,2021-03-20,Manchester United,Crystal Palace,Away,4,3
+565,59178,29,2021-03-20,Crystal Palace,Manchester United,Home,3,4
+566,59179,29,2021-03-20,Leeds United,Fulham,Away,2,2
+567,59179,29,2021-03-20,Fulham,Leeds United,Home,2,2
+568,59180,29,2021-03-20,Chelsea,Liverpool,Away,4,5
+569,59180,29,2021-03-20,Liverpool,Chelsea,Home,5,4
+570,59181,29,2021-03-20,Wolverhampton Wanderers,Manchester City,Away,3,5
+571,59181,29,2021-03-20,Manchester City,Wolverhampton Wanderers,Home,5,3
+572,59182,29,2021-03-20,Aston Villa,Sheffield United,Away,2,3
+573,59182,29,2021-03-20,Sheffield United,Aston Villa,Home,3,2
+574,59183,29,2021-03-20,Southampton,Tottenham Hotspur,Away,3,4
+575,59183,29,2021-03-20,Tottenham Hotspur,Southampton,Home,4,3
+576,59184,29,2021-03-20,Everton,West Bromwich Albion,Away,3,2
+577,59184,29,2021-03-20,West Bromwich Albion,Everton,Home,2,3
+578,59185,29,2021-03-20,Arsenal,West Ham United,Away,4,3
+579,59185,29,2021-03-20,West Ham United,Arsenal,Home,3,4
+580,59186,30,2021-04-03,Liverpool,Arsenal,Away,5,4
+581,59186,30,2021-04-03,Arsenal,Liverpool,Home,4,5
+582,59187,30,2021-04-03,Fulham,Aston Villa,Away,2,2
+583,59187,30,2021-04-03,Aston Villa,Fulham,Home,2,2
+584,59188,30,2021-04-03,West Bromwich Albion,Chelsea,Away,2,4
+585,59188,30,2021-04-03,Chelsea,West Bromwich Albion,Home,4,2
+586,59189,30,2021-04-03,Crystal Palace,Everton,Away,3,3
+587,59189,30,2021-04-03,Everton,Crystal Palace,Home,3,3
+588,59190,30,2021-04-03,Sheffield United,Leeds United,Away,3,2
+589,59190,30,2021-04-03,Leeds United,Sheffield United,Home,2,3
+590,59191,30,2021-04-03,Manchester City,Leicester City,Away,5,4
+591,59191,30,2021-04-03,Leicester City,Manchester City,Home,4,5
+592,59192,30,2021-04-03,Brighton and Hove Albion,Manchester United,Away,2,4
+593,59192,30,2021-04-03,Manchester United,Brighton and Hove Albion,Home,4,2
+594,59193,30,2021-04-03,Tottenham Hotspur,Newcastle United,Away,4,3
+595,59193,30,2021-04-03,Newcastle United,Tottenham Hotspur,Home,3,4
+596,59194,30,2021-04-03,Burnley,Southampton,Away,3,3
+597,59194,30,2021-04-03,Southampton,Burnley,Home,3,3
+598,59195,30,2021-04-03,West Ham United,Wolverhampton Wanderers,Away,3,3
+599,59195,30,2021-04-03,Wolverhampton Wanderers,West Ham United,Home,3,3
+600,59196,31,2021-04-10,Everton,Brighton and Hove Albion,Away,3,2
+601,59196,31,2021-04-10,Brighton and Hove Albion,Everton,Home,2,3
+602,59197,31,2021-04-10,Newcastle United,Burnley,Away,3,3
+603,59197,31,2021-04-10,Burnley,Newcastle United,Home,3,3
+604,59198,31,2021-04-10,Chelsea,Crystal Palace,Away,4,3
+605,59198,31,2021-04-10,Crystal Palace,Chelsea,Home,3,4
+606,59199,31,2021-04-10,Wolverhampton Wanderers,Fulham,Away,3,2
+607,59199,31,2021-04-10,Fulham,Wolverhampton Wanderers,Home,2,3
+608,59200,31,2021-04-10,Aston Villa,Liverpool,Away,2,5
+609,59200,31,2021-04-10,Liverpool,Aston Villa,Home,5,2
+610,59201,31,2021-04-10,Leeds United,Manchester City,Away,2,5
+611,59201,31,2021-04-10,Manchester City,Leeds United,Home,5,2
+612,59202,31,2021-04-10,Arsenal,Sheffield United,Away,4,3
+613,59202,31,2021-04-10,Sheffield United,Arsenal,Home,3,4
+614,59203,31,2021-04-10,Manchester United,Tottenham Hotspur,Away,4,4
+615,59203,31,2021-04-10,Tottenham Hotspur,Manchester United,Home,4,4
+616,59204,31,2021-04-10,Southampton,West Bromwich Albion,Away,3,2
+617,59204,31,2021-04-10,West Bromwich Albion,Southampton,Home,2,3
+618,59205,31,2021-04-10,Leicester City,West Ham United,Away,4,3
+619,59205,31,2021-04-10,West Ham United,Leicester City,Home,3,4
+620,59206,32,2021-04-17,Fulham,Arsenal,Away,2,4
+621,59206,32,2021-04-17,Arsenal,Fulham,Home,4,2
+622,59207,32,2021-04-17,Manchester City,Aston Villa,Away,5,2
+623,59207,32,2021-04-17,Aston Villa,Manchester City,Home,2,5
+624,59208,32,2021-04-17,Brighton and Hove Albion,Chelsea,Away,2,4
+625,59208,32,2021-04-17,Chelsea,Brighton and Hove Albion,Home,4,2
+626,59209,32,2021-04-17,Tottenham Hotspur,Everton,Away,4,3
+627,59209,32,2021-04-17,Everton,Tottenham Hotspur,Home,3,4
+628,59210,32,2021-04-17,Liverpool,Leeds United,Away,5,2
+629,59210,32,2021-04-17,Leeds United,Liverpool,Home,2,5
+630,59211,32,2021-04-17,West Bromwich Albion,Leicester City,Away,2,4
+631,59211,32,2021-04-17,Leicester City,West Bromwich Albion,Home,4,2
+632,59212,32,2021-04-17,Burnley,Manchester United,Away,3,4
+633,59212,32,2021-04-17,Manchester United,Burnley,Home,4,3
+634,59213,32,2021-04-17,West Ham United,Newcastle United,Away,3,3
+635,59213,32,2021-04-17,Newcastle United,West Ham United,Home,3,3
+636,59214,32,2021-04-17,Crystal Palace,Southampton,Away,3,3
+637,59214,32,2021-04-17,Southampton,Crystal Palace,Home,3,3
+638,59215,32,2021-04-17,Sheffield United,Wolverhampton Wanderers,Away,3,3
+639,59215,32,2021-04-17,Wolverhampton Wanderers,Sheffield United,Home,3,3
+640,59216,33,2021-04-24,Everton,Arsenal,Away,3,4
+641,59216,33,2021-04-24,Arsenal,Everton,Home,4,3
+642,59217,33,2021-04-24,West Bromwich Albion,Aston Villa,Away,2,2
+643,59217,33,2021-04-24,Aston Villa,West Bromwich Albion,Home,2,2
+644,59218,33,2021-04-24,Tottenham Hotspur,Fulham,Away,4,2
+645,59218,33,2021-04-24,Fulham,Tottenham Hotspur,Home,2,4
+646,59219,33,2021-04-24,Manchester United,Leeds United,Away,4,2
+647,59219,33,2021-04-24,Leeds United,Manchester United,Home,2,4
+648,59220,33,2021-04-24,Crystal Palace,Leicester City,Away,3,4
+649,59220,33,2021-04-24,Leicester City,Crystal Palace,Home,4,3
+650,59221,33,2021-04-24,Newcastle United,Liverpool,Away,3,5
+651,59221,33,2021-04-24,Liverpool,Newcastle United,Home,5,3
+652,59222,33,2021-04-24,Southampton,Manchester City,Away,3,5
+653,59222,33,2021-04-24,Manchester City,Southampton,Home,5,3
+654,59223,33,2021-04-24,Brighton and Hove Albion,Sheffield United,Away,2,3
+655,59223,33,2021-04-24,Sheffield United,Brighton and Hove Albion,Home,3,2
+656,59224,33,2021-04-24,Chelsea,West Ham United,Away,4,3
+657,59224,33,2021-04-24,West Ham United,Chelsea,Home,3,4
+658,59225,33,2021-04-24,Burnley,Wolverhampton Wanderers,Away,3,3
+659,59225,33,2021-04-24,Wolverhampton Wanderers,Burnley,Home,3,3
+660,59226,34,2021-05-01,Leeds United,Brighton and Hove Albion,Away,2,2
+661,59226,34,2021-05-01,Brighton and Hove Albion,Leeds United,Home,2,2
+662,59227,34,2021-05-01,West Ham United,Burnley,Away,3,3
+663,59227,34,2021-05-01,Burnley,West Ham United,Home,3,3
+664,59228,34,2021-05-01,Fulham,Chelsea,Away,2,4
+665,59228,34,2021-05-01,Chelsea,Fulham,Home,4,2
+666,59229,34,2021-05-01,Manchester City,Crystal Palace,Away,5,3
+667,59229,34,2021-05-01,Crystal Palace,Manchester City,Home,3,5
+668,59230,34,2021-05-01,Aston Villa,Everton,Away,2,3
+669,59230,34,2021-05-01,Everton,Aston Villa,Home,3,2
+670,59231,34,2021-05-01,Liverpool,Manchester United,Away,5,4
+671,59231,34,2021-05-01,Manchester United,Liverpool,Home,4,5
+672,59232,34,2021-05-01,Arsenal,Newcastle United,Away,4,3
+673,59232,34,2021-05-01,Newcastle United,Arsenal,Home,3,4
+674,59233,34,2021-05-01,Leicester City,Southampton,Away,4,3
+675,59233,34,2021-05-01,Southampton,Leicester City,Home,3,4
+676,59234,34,2021-05-01,Sheffield United,Tottenham Hotspur,Away,3,4
+677,59234,34,2021-05-01,Tottenham Hotspur,Sheffield United,Home,4,3
+678,59235,34,2021-05-01,Wolverhampton Wanderers,West Bromwich Albion,Away,3,2
+679,59235,34,2021-05-01,West Bromwich Albion,Wolverhampton Wanderers,Home,2,3
+680,59236,35,2021-05-08,West Bromwich Albion,Arsenal,Away,2,4
+681,59236,35,2021-05-08,Arsenal,West Bromwich Albion,Home,4,2
+682,59237,35,2021-05-08,Manchester United,Aston Villa,Away,4,2
+683,59237,35,2021-05-08,Aston Villa,Manchester United,Home,2,4
+684,59238,35,2021-05-08,Burnley,Fulham,Away,3,2
+685,59238,35,2021-05-08,Fulham,Burnley,Home,2,3
+686,59239,35,2021-05-08,Tottenham Hotspur,Leeds United,Away,4,2
+687,59239,35,2021-05-08,Leeds United,Tottenham Hotspur,Home,2,4
+688,59240,35,2021-05-08,Newcastle United,Leicester City,Away,3,4
+689,59240,35,2021-05-08,Leicester City,Newcastle United,Home,4,3
+690,59241,35,2021-05-08,Southampton,Liverpool,Away,3,5
+691,59241,35,2021-05-08,Liverpool,Southampton,Home,5,3
+692,59242,35,2021-05-08,Chelsea,Manchester City,Away,4,5
+693,59242,35,2021-05-08,Manchester City,Chelsea,Home,5,4
+694,59243,35,2021-05-08,Crystal Palace,Sheffield United,Away,3,3
+695,59243,35,2021-05-08,Sheffield United,Crystal Palace,Home,3,3
+696,59244,35,2021-05-08,Everton,West Ham United,Away,3,3
+697,59244,35,2021-05-08,West Ham United,Everton,Home,3,3
+698,59245,35,2021-05-08,Brighton and Hove Albion,Wolverhampton Wanderers,Away,2,3
+699,59245,35,2021-05-08,Wolverhampton Wanderers,Brighton and Hove Albion,Home,3,2
+700,59246,36,2021-05-11,West Ham United,Brighton and Hove Albion,Away,3,2
+701,59246,36,2021-05-11,Brighton and Hove Albion,West Ham United,Home,2,3
+702,59247,36,2021-05-11,Leeds United,Burnley,Away,2,3
+703,59247,36,2021-05-11,Burnley,Leeds United,Home,3,2
+704,59248,36,2021-05-11,Sheffield United,Everton,Away,3,3
+705,59248,36,2021-05-11,Everton,Sheffield United,Home,3,3
+706,59249,36,2021-05-11,Leicester City,Manchester United,Away,4,4
+707,59249,36,2021-05-11,Manchester United,Leicester City,Home,4,4
+708,59250,36,2021-05-11,Liverpool,West Bromwich Albion,Away,5,2
+709,59250,36,2021-05-11,West Bromwich Albion,Liverpool,Home,2,5
+710,59251,36,2021-05-12,Arsenal,Chelsea,Away,4,4
+711,59251,36,2021-05-12,Chelsea,Arsenal,Home,4,4
+712,59252,36,2021-05-12,Aston Villa,Crystal Palace,Away,2,3
+713,59252,36,2021-05-12,Crystal Palace,Aston Villa,Home,3,2
+714,59253,36,2021-05-12,Manchester City,Newcastle United,Away,5,3
+715,59253,36,2021-05-12,Newcastle United,Manchester City,Home,3,5
+716,59254,36,2021-05-12,Fulham,Southampton,Away,2,3
+717,59254,36,2021-05-12,Southampton,Fulham,Home,3,2
+718,59255,36,2021-05-12,Wolverhampton Wanderers,Tottenham Hotspur,Away,3,4
+719,59255,36,2021-05-12,Tottenham Hotspur,Wolverhampton Wanderers,Home,4,3
+720,59256,37,2021-05-15,Manchester City,Brighton and Hove Albion,Away,5,2
+721,59256,37,2021-05-15,Brighton and Hove Albion,Manchester City,Home,2,5
+722,59257,37,2021-05-15,Liverpool,Burnley,Away,5,3
+723,59257,37,2021-05-15,Burnley,Liverpool,Home,3,5
+724,59258,37,2021-05-15,Leicester City,Chelsea,Away,4,4
+725,59258,37,2021-05-15,Chelsea,Leicester City,Home,4,4
+726,59259,37,2021-05-15,Arsenal,Crystal Palace,Away,4,3
+727,59259,37,2021-05-15,Crystal Palace,Arsenal,Home,3,4
+728,59260,37,2021-05-15,Wolverhampton Wanderers,Everton,Away,3,3
+729,59260,37,2021-05-15,Everton,Wolverhampton Wanderers,Home,3,3
+730,59261,37,2021-05-15,Fulham,Manchester United,Away,2,4
+731,59261,37,2021-05-15,Manchester United,Fulham,Home,4,2
+732,59262,37,2021-05-15,Sheffield United,Newcastle United,Away,3,3
+733,59262,37,2021-05-15,Newcastle United,Sheffield United,Home,3,3
+734,59263,37,2021-05-15,Leeds United,Southampton,Away,2,3
+735,59263,37,2021-05-15,Southampton,Leeds United,Home,3,2
+736,59264,37,2021-05-15,Aston Villa,Tottenham Hotspur,Away,2,4
+737,59264,37,2021-05-15,Tottenham Hotspur,Aston Villa,Home,4,2
+738,59265,37,2021-05-15,West Ham United,West Bromwich Albion,Away,3,2
+739,59265,37,2021-05-15,West Bromwich Albion,West Ham United,Home,2,3
+740,59266,38,2021-05-23,Brighton and Hove Albion,Arsenal,Away,2,4
+741,59266,38,2021-05-23,Arsenal,Brighton and Hove Albion,Home,4,2
+742,59267,38,2021-05-23,Chelsea,Aston Villa,Away,4,2
+743,59267,38,2021-05-23,Aston Villa,Chelsea,Home,2,4
+744,59268,38,2021-05-23,Newcastle United,Fulham,Away,3,2
+745,59268,38,2021-05-23,Fulham,Newcastle United,Home,2,3
+746,59269,38,2021-05-23,West Bromwich Albion,Leeds United,Away,2,2
+747,59269,38,2021-05-23,Leeds United,West Bromwich Albion,Home,2,2
+748,59270,38,2021-05-23,Tottenham Hotspur,Leicester City,Away,4,4
+749,59270,38,2021-05-23,Leicester City,Tottenham Hotspur,Home,4,4
+750,59271,38,2021-05-23,Crystal Palace,Liverpool,Away,3,5
+751,59271,38,2021-05-23,Liverpool,Crystal Palace,Home,5,3
+752,59272,38,2021-05-23,Everton,Manchester City,Away,3,5
+753,59272,38,2021-05-23,Manchester City,Everton,Home,5,3
+754,59273,38,2021-05-23,Burnley,Sheffield United,Away,3,3
+755,59273,38,2021-05-23,Sheffield United,Burnley,Home,3,3
+756,59274,38,2021-05-23,Southampton,West Ham United,Away,3,3
+757,59274,38,2021-05-23,West Ham United,Southampton,Home,3,3
+758,59275,38,2021-05-23,Manchester United,Wolverhampton Wanderers,Away,4,3
+759,59275,38,2021-05-23,Wolverhampton Wanderers,Manchester United,Home,3,4
