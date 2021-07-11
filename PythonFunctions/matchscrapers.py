@@ -12,7 +12,7 @@ from PythonFunctions.sqlfunctions import *
 
 #We need some SQL functionality for the classes
 #Connect to the database 'fpl.db' (fantasy premier league!)
-conn = sqlite3.connect('Data/20_21fpl.db')
+conn = sqlite3.connect('Data/21_22fpl.db')
 #Instantiate a cursor
 c = conn.cursor()
 df_teams = sql('SELECT * FROM teams_basic', c).head(20)
@@ -308,10 +308,10 @@ def df_matches_constructor():
     
     df = pd.DataFrame()
     
-    for i in range(58896, 59276):
+    for i in range(66342, 66721):
         
         browser.visit(f'https://www.premierleague.com/match/{i}')
-        time.sleep(1.5)
+        time.sleep(1)
         
         html = BeautifulSoup(browser.html, 'html.parser')
         

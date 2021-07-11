@@ -15,11 +15,28 @@ import unicodedata
 
 
 #We have a list of teams and positions taken from site commentary...
-teams = ['Arsenal', 'Aston Villa', 'Brighton and Hove Albion',
-         'Burnley', 'Chelsea', 'Crystal Palace', 'Everton', 'Fulham', 'Leicester City',
-         'Leeds United', 'Liverpool', 'Manchester City', 'Manchester United', 'Newcastle United',
-         'Sheffield United', 'Southampton', 'Tottenham Hotspur', 'West Bromwich Albion',
-         'West Ham United', 'Wolverhampton Wanderers']
+teams = [
+    'Arsenal',
+    'Aston Villa',
+    'Brentford',
+    'Brighton and Hove Albion',
+    'Burnley',
+    'Chelsea',
+    'Crystal Palace',
+    'Everton', 
+    'Leicester City',
+    'Leeds United',
+    'Liverpool',
+    'Manchester City',
+    'Manchester United',
+    'Newcastle United',
+    'Norwich City',
+    'Southampton',
+    'Tottenham Hotspur',
+    'Watford',
+    'West Ham United',
+    'Wolverhampton Wanderers'
+    ]
 
 #Create a dictionary where the keys are the names in the df_player dictionary,
     #and the corresponding values are the names mentioned in match commentary

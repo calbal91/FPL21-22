@@ -12,7 +12,7 @@ from PythonFunctions.apicallers import *
 
 #We need some SQL functionality for the classes
 #Connect to the database 'fpl.db' (fantasy premier league!)
-conn = sqlite3.connect('Data/20_21fpl.db')
+conn = sqlite3.connect('Data/21_22fpl.db')
 
 #Instantiate a cursor
 c = conn.cursor()
@@ -22,7 +22,7 @@ df_matches = sql('SELECT * FROM matches_basic', c)
 
 #Create a dataframe of all known shots
 shots_19_20 = sql('select * from shot_detail_19_20', c)
-shots_20_21 = sql('select * from shots_detail', c)
+shots_20_21 = sql('select * from shot_detail_20_21', c)
 
 df_all_shots = pd.concat([shots_19_20, shots_20_21])
 
